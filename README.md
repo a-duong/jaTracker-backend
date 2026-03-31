@@ -1,1 +1,1 @@
-# jobApp
+# Job Applications Tracker Backend
